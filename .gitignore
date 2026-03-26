@@ -1,0 +1,6 @@
+node_modules/
+dist/
+player_data/
+extracted/
+.DS_Store
+*.parquet
