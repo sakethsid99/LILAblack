@@ -1,4 +1,4 @@
-# Journey Nexus — LILA Games Player Journey Visualization Tool
+# Nexus Studio — LILA Games Player Journey Visualization Tool
 
 An interactive tool for level designers to explore player behaviour across matches: where players go, how they die, what they loot, and how fights unfold over time.
 
