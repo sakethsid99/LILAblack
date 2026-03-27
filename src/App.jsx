@@ -1,4 +1,5 @@
 import { useState, useEffect, useCallback, useMemo } from 'react'
+import { Analytics } from '@vercel/analytics/react'
 import LeftNav from './components/LeftNav'
 import NavBar from './components/NavBar'
 import MapCanvas from './components/MapCanvas'
@@ -208,6 +209,7 @@ export default function App() {
         )}
 
       </div>
+      <Analytics />
     </div>
   )
 }
